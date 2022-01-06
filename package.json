@@ -1,0 +1,25 @@
+{
+  "name": "study-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for school related discord servers",
+  "main": "server.js",
+  "scripts": {
+    "test": "TOKEN=NzI3OTU5ODc4NjQzMDg5NTE5.Xvzbdw.3JRKska7w7Q-Ca9Yc-i9x-PTKQI NODE_ENV=development node server.js ",
+    "setup": "node ./Experimental/Setup/Setup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gighub.com/levkonikitin/study-bot"
+  },
+  "keywords": [
+    "discordjs"
+  ],
+  "author": "Levko Nikitin",
+  "license": "Mozilla Open License",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "pg": "^8.5.1"
+  }
+}
