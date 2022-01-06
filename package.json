@@ -4,7 +4,6 @@
   "description": "A discord bot for school related discord servers",
   "main": "server.js",
   "scripts": {
-    "test": "TOKEN=NzI3OTU5ODc4NjQzMDg5NTE5.Xvzbdw.3JRKska7w7Q-Ca9Yc-i9x-PTKQI NODE_ENV=development node server.js ",
     "setup": "node ./Experimental/Setup/Setup.js"
   },
   "repository": {
@@ -15,7 +14,7 @@
     "discordjs"
   ],
   "author": "Levko Nikitin",
-  "license": "Mozilla Open License",
+  "license": "MIT License",
   "dependencies": {
     "discord": "^0.8.2",
     "discord.js": "^12.5.1",
