@@ -21,7 +21,7 @@ A discord Bot custom build to increases the organizational efficiency of a Unive
 - drop <name>
     - removes any role from a user
 
-MIT License:
+###MIT License:
 
 Copyright (c) 2021 Levko Nikitin
 
